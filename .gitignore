@@ -7,6 +7,3 @@ yolo_clevrer/runs-20231001T064404Z-001/runs/detect/train/weights/best.pt
 cripp-code/runs/detect/train/weights/last.pt 
 cripp-code/runs/detect/train3/weights/last.pt
 yolo_clevrer/runs-20231001T064404Z-001/runs/detect/train/weights/last.pt
-*.pt
-runs/
-**/runs/**
